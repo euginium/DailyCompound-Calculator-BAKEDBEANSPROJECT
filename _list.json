@@ -1,0 +1,1808 @@
+[
+  {
+    "Day": 0,
+    "Generated": "USD 102.9",
+    "BnbDailyRewards": 0.011136363636363649,
+    "DailyROIReward": "USD 4.900000000000006"
+  },
+  {
+    "Day": 1,
+    "Generated": "USD 108.04500000000002",
+    "BnbDailyRewards": 0.011693181818181842,
+    "DailyROIReward": "USD 5.14500000000001"
+  },
+  {
+    "Day": 2,
+    "Generated": "USD 113.44725000000003",
+    "BnbDailyRewards": 0.012277840909090931,
+    "DailyROIReward": "USD 5.402250000000009"
+  },
+  {
+    "Day": 3,
+    "Generated": "USD 119.11961250000003",
+    "BnbDailyRewards": 0.012891732954545466,
+    "DailyROIReward": "USD 5.6723625000000055"
+  },
+  {
+    "Day": 4,
+    "Generated": "USD 125.07559312500004",
+    "BnbDailyRewards": 0.013536319602272749,
+    "DailyROIReward": "USD 5.955980625000009"
+  },
+  {
+    "Day": 5,
+    "Generated": "USD 131.32937278125004",
+    "BnbDailyRewards": 0.014213135582386372,
+    "DailyROIReward": "USD 6.253779656250003"
+  },
+  {
+    "Day": 6,
+    "Generated": "USD 137.89584142031256",
+    "BnbDailyRewards": 0.014923792361505728,
+    "DailyROIReward": "USD 6.566468639062521"
+  },
+  {
+    "Day": 7,
+    "Generated": "USD 144.7906334913282",
+    "BnbDailyRewards": 0.01566998197958101,
+    "DailyROIReward": "USD 6.894792071015644"
+  },
+  {
+    "Day": 8,
+    "Generated": "USD 152.03016516589463",
+    "BnbDailyRewards": 0.01645348107856005,
+    "DailyROIReward": "USD 7.239531674566422"
+  },
+  {
+    "Day": 9,
+    "Generated": "USD 159.63167342418936",
+    "BnbDailyRewards": 0.01727615513248802,
+    "DailyROIReward": "USD 7.601508258294729"
+  },
+  {
+    "Day": 10,
+    "Generated": "USD 167.61325709539884",
+    "BnbDailyRewards": 0.01813996288911245,
+    "DailyROIReward": "USD 7.981583671209478"
+  },
+  {
+    "Day": 11,
+    "Generated": "USD 175.9939199501688",
+    "BnbDailyRewards": 0.019046961033568073,
+    "DailyROIReward": "USD 8.380662854769952"
+  },
+  {
+    "Day": 12,
+    "Generated": "USD 184.79361594767724",
+    "BnbDailyRewards": 0.01999930908524648,
+    "DailyROIReward": "USD 8.79969599750845"
+  },
+  {
+    "Day": 13,
+    "Generated": "USD 194.0332967450611",
+    "BnbDailyRewards": 0.020999274539508794,
+    "DailyROIReward": "USD 9.239680797383869"
+  },
+  {
+    "Day": 14,
+    "Generated": "USD 203.73496158231418",
+    "BnbDailyRewards": 0.022049238266484264,
+    "DailyROIReward": "USD 9.701664837253077"
+  },
+  {
+    "Day": 15,
+    "Generated": "USD 213.9217096614299",
+    "BnbDailyRewards": 0.023151700179808447,
+    "DailyROIReward": "USD 10.186748079115716"
+  },
+  {
+    "Day": 16,
+    "Generated": "USD 224.6177951445014",
+    "BnbDailyRewards": 0.024309285188798862,
+    "DailyROIReward": "USD 10.6960854830715"
+  },
+  {
+    "Day": 17,
+    "Generated": "USD 235.84868490172647",
+    "BnbDailyRewards": 0.0255247494482388,
+    "DailyROIReward": "USD 11.230889757225071"
+  },
+  {
+    "Day": 18,
+    "Generated": "USD 247.6411191468128",
+    "BnbDailyRewards": 0.026800986920650742,
+    "DailyROIReward": "USD 11.792434245086326"
+  },
+  {
+    "Day": 19,
+    "Generated": "USD 260.02317510415344",
+    "BnbDailyRewards": 0.028141036266683274,
+    "DailyROIReward": "USD 12.38205595734064"
+  },
+  {
+    "Day": 20,
+    "Generated": "USD 273.02433385936115",
+    "BnbDailyRewards": 0.029548088080017527,
+    "DailyROIReward": "USD 13.001158755207712"
+  },
+  {
+    "Day": 21,
+    "Generated": "USD 286.67555055232924",
+    "BnbDailyRewards": 0.03102549248401839,
+    "DailyROIReward": "USD 13.651216692968092"
+  },
+  {
+    "Day": 22,
+    "Generated": "USD 301.0093280799457",
+    "BnbDailyRewards": 0.03257676710821923,
+    "DailyROIReward": "USD 14.333777527616462"
+  },
+  {
+    "Day": 23,
+    "Generated": "USD 316.059794483943",
+    "BnbDailyRewards": 0.034205605463630204,
+    "DailyROIReward": "USD 15.05046640399729"
+  },
+  {
+    "Day": 24,
+    "Generated": "USD 331.86278420814017",
+    "BnbDailyRewards": 0.03591588573681176,
+    "DailyROIReward": "USD 15.802989724197175"
+  },
+  {
+    "Day": 25,
+    "Generated": "USD 348.4559234185472",
+    "BnbDailyRewards": 0.03771168002365228,
+    "DailyROIReward": "USD 16.593139210407003"
+  },
+  {
+    "Day": 26,
+    "Generated": "USD 365.87871958947454",
+    "BnbDailyRewards": 0.03959726402483493,
+    "DailyROIReward": "USD 17.42279617092737"
+  },
+  {
+    "Day": 27,
+    "Generated": "USD 384.1726555689483",
+    "BnbDailyRewards": 0.041577127226076725,
+    "DailyROIReward": "USD 18.29393597947376"
+  },
+  {
+    "Day": 28,
+    "Generated": "USD 403.38128834739575",
+    "BnbDailyRewards": 0.04365598358738057,
+    "DailyROIReward": "USD 19.208632778447452"
+  },
+  {
+    "Day": 29,
+    "Generated": "USD 423.55035276476553",
+    "BnbDailyRewards": 0.045838782766749506,
+    "DailyROIReward": "USD 20.169064417369782"
+  },
+  {
+    "Day": 30,
+    "Generated": "USD 444.7278704030038",
+    "BnbDailyRewards": 0.04813072190508698,
+    "DailyROIReward": "USD 21.17751763823827"
+  },
+  {
+    "Day": 31,
+    "Generated": "USD 466.964263923154",
+    "BnbDailyRewards": 0.0505372580003414,
+    "DailyROIReward": "USD 22.236393520150216"
+  },
+  {
+    "Day": 32,
+    "Generated": "USD 490.3124771193117",
+    "BnbDailyRewards": 0.05306412090035841,
+    "DailyROIReward": "USD 23.3482131961577"
+  },
+  {
+    "Day": 33,
+    "Generated": "USD 514.8281009752774",
+    "BnbDailyRewards": 0.0557173269453765,
+    "DailyROIReward": "USD 24.515623855965657"
+  },
+  {
+    "Day": 34,
+    "Generated": "USD 540.5695060240413",
+    "BnbDailyRewards": 0.05850319329264525,
+    "DailyROIReward": "USD 25.74140504876391"
+  },
+  {
+    "Day": 35,
+    "Generated": "USD 567.5979813252434",
+    "BnbDailyRewards": 0.061428352957277485,
+    "DailyROIReward": "USD 27.028475301202093"
+  },
+  {
+    "Day": 36,
+    "Generated": "USD 595.9778803915056",
+    "BnbDailyRewards": 0.0644997706051413,
+    "DailyROIReward": "USD 28.37989906626217"
+  },
+  {
+    "Day": 37,
+    "Generated": "USD 625.7767744110809",
+    "BnbDailyRewards": 0.06772475913539841,
+    "DailyROIReward": "USD 29.7988940195753"
+  },
+  {
+    "Day": 38,
+    "Generated": "USD 657.0656131316349",
+    "BnbDailyRewards": 0.07111099709216831,
+    "DailyROIReward": "USD 31.288838720554054"
+  },
+  {
+    "Day": 39,
+    "Generated": "USD 689.9188937882167",
+    "BnbDailyRewards": 0.07466654694677675,
+    "DailyROIReward": "USD 32.853280656581774"
+  },
+  {
+    "Day": 40,
+    "Generated": "USD 724.4148384776275",
+    "BnbDailyRewards": 0.0783998742941156,
+    "DailyROIReward": "USD 34.49594468941086"
+  },
+  {
+    "Day": 41,
+    "Generated": "USD 760.635580401509",
+    "BnbDailyRewards": 0.08231986800882138,
+    "DailyROIReward": "USD 36.220741923881405"
+  },
+  {
+    "Day": 42,
+    "Generated": "USD 798.6673594215845",
+    "BnbDailyRewards": 0.08643586140926257,
+    "DailyROIReward": "USD 38.03177902007553"
+  },
+  {
+    "Day": 43,
+    "Generated": "USD 838.6007273926638",
+    "BnbDailyRewards": 0.09075765447972567,
+    "DailyROIReward": "USD 39.93336797107929"
+  },
+  {
+    "Day": 44,
+    "Generated": "USD 880.5307637622969",
+    "BnbDailyRewards": 0.09529553720371176,
+    "DailyROIReward": "USD 41.93003636963317"
+  },
+  {
+    "Day": 45,
+    "Generated": "USD 924.5573019504118",
+    "BnbDailyRewards": 0.10006031406389737,
+    "DailyROIReward": "USD 44.02653818811484"
+  },
+  {
+    "Day": 46,
+    "Generated": "USD 970.7851670479324",
+    "BnbDailyRewards": 0.10506332976709234,
+    "DailyROIReward": "USD 46.227865097520635"
+  },
+  {
+    "Day": 47,
+    "Generated": "USD 1019.3244254003291",
+    "BnbDailyRewards": 0.11031649625544705,
+    "DailyROIReward": "USD 48.5392583523967"
+  },
+  {
+    "Day": 48,
+    "Generated": "USD 1070.2906466703457",
+    "BnbDailyRewards": 0.11583232106821956,
+    "DailyROIReward": "USD 50.966221270016604"
+  },
+  {
+    "Day": 49,
+    "Generated": "USD 1123.805179003863",
+    "BnbDailyRewards": 0.12162393712163025,
+    "DailyROIReward": "USD 53.51453233351731"
+  },
+  {
+    "Day": 50,
+    "Generated": "USD 1179.9954379540563",
+    "BnbDailyRewards": 0.12770513397771208,
+    "DailyROIReward": "USD 56.19025895019331"
+  },
+  {
+    "Day": 51,
+    "Generated": "USD 1238.9952098517592",
+    "BnbDailyRewards": 0.13409039067659748,
+    "DailyROIReward": "USD 58.999771897702885"
+  },
+  {
+    "Day": 52,
+    "Generated": "USD 1300.9449703443472",
+    "BnbDailyRewards": 0.14079491021042723,
+    "DailyROIReward": "USD 61.949760492587984"
+  },
+  {
+    "Day": 53,
+    "Generated": "USD 1365.9922188615647",
+    "BnbDailyRewards": 0.14783465572094873,
+    "DailyROIReward": "USD 65.04724851721744"
+  },
+  {
+    "Day": 54,
+    "Generated": "USD 1434.291829804643",
+    "BnbDailyRewards": 0.15522638850699608,
+    "DailyROIReward": "USD 68.29961094307828"
+  },
+  {
+    "Day": 55,
+    "Generated": "USD 1506.006421294875",
+    "BnbDailyRewards": 0.16298770793234574,
+    "DailyROIReward": "USD 71.71459149023212"
+  },
+  {
+    "Day": 56,
+    "Generated": "USD 1581.306742359619",
+    "BnbDailyRewards": 0.17113709332896343,
+    "DailyROIReward": "USD 75.30032106474391"
+  },
+  {
+    "Day": 57,
+    "Generated": "USD 1660.3720794776",
+    "BnbDailyRewards": 0.1796939479954114,
+    "DailyROIReward": "USD 79.06533711798102"
+  },
+  {
+    "Day": 58,
+    "Generated": "USD 1743.39068345148",
+    "BnbDailyRewards": 0.18867864539518203,
+    "DailyROIReward": "USD 83.01860397388009"
+  },
+  {
+    "Day": 59,
+    "Generated": "USD 1830.560217624054",
+    "BnbDailyRewards": 0.19811257766494092,
+    "DailyROIReward": "USD 87.169534172574"
+  },
+  {
+    "Day": 60,
+    "Generated": "USD 1922.088228505257",
+    "BnbDailyRewards": 0.20801820654818823,
+    "DailyROIReward": "USD 91.52801088120282"
+  },
+  {
+    "Day": 61,
+    "Generated": "USD 2018.1926399305198",
+    "BnbDailyRewards": 0.21841911687559756,
+    "DailyROIReward": "USD 96.10441142526292"
+  },
+  {
+    "Day": 62,
+    "Generated": "USD 2119.102271927046",
+    "BnbDailyRewards": 0.2293400727193774,
+    "DailyROIReward": "USD 100.90963199652606"
+  },
+  {
+    "Day": 63,
+    "Generated": "USD 2225.0573855233984",
+    "BnbDailyRewards": 0.24080707635534654,
+    "DailyROIReward": "USD 105.95511359635248"
+  },
+  {
+    "Day": 64,
+    "Generated": "USD 2336.310254799568",
+    "BnbDailyRewards": 0.2528474301731132,
+    "DailyROIReward": "USD 111.2528692761698"
+  },
+  {
+    "Day": 65,
+    "Generated": "USD 2453.125767539547",
+    "BnbDailyRewards": 0.26548980168176967,
+    "DailyROIReward": "USD 116.81551273997866"
+  },
+  {
+    "Day": 66,
+    "Generated": "USD 2575.7820559165243",
+    "BnbDailyRewards": 0.27876429176585793,
+    "DailyROIReward": "USD 122.6562883769775"
+  },
+  {
+    "Day": 67,
+    "Generated": "USD 2704.5711587123506",
+    "BnbDailyRewards": 0.2927025063541505,
+    "DailyROIReward": "USD 128.78910279582624"
+  },
+  {
+    "Day": 68,
+    "Generated": "USD 2839.799716647968",
+    "BnbDailyRewards": 0.3073376316718581,
+    "DailyROIReward": "USD 135.22855793561757"
+  },
+  {
+    "Day": 69,
+    "Generated": "USD 2981.7897024803665",
+    "BnbDailyRewards": 0.3227045132554508,
+    "DailyROIReward": "USD 141.98998583239836"
+  },
+  {
+    "Day": 70,
+    "Generated": "USD 3130.879187604385",
+    "BnbDailyRewards": 0.3388397389182242,
+    "DailyROIReward": "USD 149.08948512401867"
+  },
+  {
+    "Day": 71,
+    "Generated": "USD 3287.4231469846045",
+    "BnbDailyRewards": 0.35578172586413487,
+    "DailyROIReward": "USD 156.54395938021935"
+  },
+  {
+    "Day": 72,
+    "Generated": "USD 3451.794304333835",
+    "BnbDailyRewards": 0.37357081215734217,
+    "DailyROIReward": "USD 164.37115734923054"
+  },
+  {
+    "Day": 73,
+    "Generated": "USD 3624.384019550527",
+    "BnbDailyRewards": 0.3922493527652085,
+    "DailyROIReward": "USD 172.58971521669173"
+  },
+  {
+    "Day": 74,
+    "Generated": "USD 3805.6032205280535",
+    "BnbDailyRewards": 0.4118618204034698,
+    "DailyROIReward": "USD 181.21920097752673"
+  },
+  {
+    "Day": 75,
+    "Generated": "USD 3995.8833815544563",
+    "BnbDailyRewards": 0.4324549114236427,
+    "DailyROIReward": "USD 190.28016102640277"
+  },
+  {
+    "Day": 76,
+    "Generated": "USD 4195.677550632179",
+    "BnbDailyRewards": 0.45407765699482483,
+    "DailyROIReward": "USD 199.79416907772293"
+  },
+  {
+    "Day": 77,
+    "Generated": "USD 4405.461428163789",
+    "BnbDailyRewards": 0.47678153984456706,
+    "DailyROIReward": "USD 209.7838775316095"
+  },
+  {
+    "Day": 78,
+    "Generated": "USD 4625.734499571979",
+    "BnbDailyRewards": 0.5006206168367953,
+    "DailyROIReward": "USD 220.27307140818994"
+  },
+  {
+    "Day": 79,
+    "Generated": "USD 4857.021224550578",
+    "BnbDailyRewards": 0.5256516476786353,
+    "DailyROIReward": "USD 231.28672497859952"
+  },
+  {
+    "Day": 80,
+    "Generated": "USD 5099.872285778108",
+    "BnbDailyRewards": 0.551934230062567,
+    "DailyROIReward": "USD 242.8510612275295"
+  },
+  {
+    "Day": 81,
+    "Generated": "USD 5354.865900067013",
+    "BnbDailyRewards": 0.5795309415656944,
+    "DailyROIReward": "USD 254.99361428890552"
+  },
+  {
+    "Day": 82,
+    "Generated": "USD 5622.609195070364",
+    "BnbDailyRewards": 0.6085074886439791,
+    "DailyROIReward": "USD 267.7432950033508"
+  },
+  {
+    "Day": 83,
+    "Generated": "USD 5903.739654823882",
+    "BnbDailyRewards": 0.6389328630761776,
+    "DailyROIReward": "USD 281.13045975351815"
+  },
+  {
+    "Day": 84,
+    "Generated": "USD 6198.926637565077",
+    "BnbDailyRewards": 0.6708795062299879,
+    "DailyROIReward": "USD 295.1869827411947"
+  },
+  {
+    "Day": 85,
+    "Generated": "USD 6508.872969443331",
+    "BnbDailyRewards": 0.7044234815414877,
+    "DailyROIReward": "USD 309.94633187825457"
+  },
+  {
+    "Day": 86,
+    "Generated": "USD 6834.316617915499",
+    "BnbDailyRewards": 0.7396446556185621,
+    "DailyROIReward": "USD 325.4436484721673"
+  },
+  {
+    "Day": 87,
+    "Generated": "USD 7176.032448811274",
+    "BnbDailyRewards": 0.7766268883994888,
+    "DailyROIReward": "USD 341.71583089577507"
+  },
+  {
+    "Day": 88,
+    "Generated": "USD 7534.8340712518375",
+    "BnbDailyRewards": 0.8154582328194631,
+    "DailyROIReward": "USD 358.80162244056373"
+  },
+  {
+    "Day": 89,
+    "Generated": "USD 7911.57577481443",
+    "BnbDailyRewards": 0.8562311444604368,
+    "DailyROIReward": "USD 376.7417035625922"
+  },
+  {
+    "Day": 90,
+    "Generated": "USD 8307.154563555152",
+    "BnbDailyRewards": 0.8990427016834598,
+    "DailyROIReward": "USD 395.5787887407223"
+  },
+  {
+    "Day": 91,
+    "Generated": "USD 8722.51229173291",
+    "BnbDailyRewards": 0.9439948367676317,
+    "DailyROIReward": "USD 415.35772817775796"
+  },
+  {
+    "Day": 92,
+    "Generated": "USD 9158.637906319556",
+    "BnbDailyRewards": 0.9911945786060146,
+    "DailyROIReward": "USD 436.1256145866464"
+  },
+  {
+    "Day": 93,
+    "Generated": "USD 9616.569801635535",
+    "BnbDailyRewards": 1.0407543075363141,
+    "DailyROIReward": "USD 457.9318953159782"
+  },
+  {
+    "Day": 94,
+    "Generated": "USD 10097.398291717313",
+    "BnbDailyRewards": 1.0927920229131318,
+    "DailyROIReward": "USD 480.828490081778"
+  },
+  {
+    "Day": 95,
+    "Generated": "USD 10602.268206303179",
+    "BnbDailyRewards": 1.1474316240587872,
+    "DailyROIReward": "USD 504.86991458586635"
+  },
+  {
+    "Day": 96,
+    "Generated": "USD 11132.381616618339",
+    "BnbDailyRewards": 1.204803205261727,
+    "DailyROIReward": "USD 530.1134103151599"
+  },
+  {
+    "Day": 97,
+    "Generated": "USD 11689.000697449255",
+    "BnbDailyRewards": 1.2650433655248103,
+    "DailyROIReward": "USD 556.6190808309166"
+  },
+  {
+    "Day": 98,
+    "Generated": "USD 12273.450732321719",
+    "BnbDailyRewards": 1.3282955338010527,
+    "DailyROIReward": "USD 584.4500348724632"
+  },
+  {
+    "Day": 99,
+    "Generated": "USD 12887.123268937805",
+    "BnbDailyRewards": 1.3947103104911052,
+    "DailyROIReward": "USD 613.6725366160863"
+  },
+  {
+    "Day": 100,
+    "Generated": "USD 13531.479432384696",
+    "BnbDailyRewards": 1.4644458260156625,
+    "DailyROIReward": "USD 644.3561634468915"
+  },
+  {
+    "Day": 101,
+    "Generated": "USD 14208.053404003931",
+    "BnbDailyRewards": 1.5376681173164426,
+    "DailyROIReward": "USD 676.5739716192347"
+  },
+  {
+    "Day": 102,
+    "Generated": "USD 14918.456074204129",
+    "BnbDailyRewards": 1.614551523182267,
+    "DailyROIReward": "USD 710.4026702001975"
+  },
+  {
+    "Day": 103,
+    "Generated": "USD 15664.378877914336",
+    "BnbDailyRewards": 1.6952790993413807,
+    "DailyROIReward": "USD 745.9228037102075"
+  },
+  {
+    "Day": 104,
+    "Generated": "USD 16447.597821810054",
+    "BnbDailyRewards": 1.780043054308449,
+    "DailyROIReward": "USD 783.2189438957175"
+  },
+  {
+    "Day": 105,
+    "Generated": "USD 17269.977712900556",
+    "BnbDailyRewards": 1.8690452070238692,
+    "DailyROIReward": "USD 822.3798910905025"
+  },
+  {
+    "Day": 106,
+    "Generated": "USD 18133.476598545585",
+    "BnbDailyRewards": 1.9624974673750661,
+    "DailyROIReward": "USD 863.4988856450291"
+  },
+  {
+    "Day": 107,
+    "Generated": "USD 19040.150428472865",
+    "BnbDailyRewards": 2.0606223407438184,
+    "DailyROIReward": "USD 906.6738299272802"
+  },
+  {
+    "Day": 108,
+    "Generated": "USD 19992.15794989651",
+    "BnbDailyRewards": 2.163653457781013,
+    "DailyROIReward": "USD 952.0075214236458"
+  },
+  {
+    "Day": 109,
+    "Generated": "USD 20991.765847391336",
+    "BnbDailyRewards": 2.271836130670057,
+    "DailyROIReward": "USD 999.607897494825"
+  },
+  {
+    "Day": 110,
+    "Generated": "USD 22041.354139760904",
+    "BnbDailyRewards": 2.3854279372035636,
+    "DailyROIReward": "USD 1049.588292369568"
+  },
+  {
+    "Day": 111,
+    "Generated": "USD 23143.42184674895",
+    "BnbDailyRewards": 2.5046993340637447,
+    "DailyROIReward": "USD 1102.0677069880476"
+  },
+  {
+    "Day": 112,
+    "Generated": "USD 24300.5929390864",
+    "BnbDailyRewards": 2.6299343007669282,
+    "DailyROIReward": "USD 1157.1710923374485"
+  },
+  {
+    "Day": 113,
+    "Generated": "USD 25515.62258604072",
+    "BnbDailyRewards": 2.761431015805275,
+    "DailyROIReward": "USD 1215.029646954321"
+  },
+  {
+    "Day": 114,
+    "Generated": "USD 26791.40371534276",
+    "BnbDailyRewards": 2.8995025665955425,
+    "DailyROIReward": "USD 1275.7811293020386"
+  },
+  {
+    "Day": 115,
+    "Generated": "USD 28130.973901109897",
+    "BnbDailyRewards": 3.0444776949253125,
+    "DailyROIReward": "USD 1339.5701857671374"
+  },
+  {
+    "Day": 116,
+    "Generated": "USD 29537.522596165392",
+    "BnbDailyRewards": 3.1967015796715796,
+    "DailyROIReward": "USD 1406.548695055495"
+  },
+  {
+    "Day": 117,
+    "Generated": "USD 31014.398725973664",
+    "BnbDailyRewards": 3.356536658655163,
+    "DailyROIReward": "USD 1476.8761298082718"
+  },
+  {
+    "Day": 118,
+    "Generated": "USD 32565.118662272347",
+    "BnbDailyRewards": 3.524363491587916,
+    "DailyROIReward": "USD 1550.719936298683"
+  },
+  {
+    "Day": 119,
+    "Generated": "USD 34193.37459538597",
+    "BnbDailyRewards": 3.7005816661673223,
+    "DailyROIReward": "USD 1628.2559331136217"
+  },
+  {
+    "Day": 120,
+    "Generated": "USD 35903.04332515527",
+    "BnbDailyRewards": 3.885610749475679,
+    "DailyROIReward": "USD 1709.6687297692988"
+  },
+  {
+    "Day": 121,
+    "Generated": "USD 37698.19549141303",
+    "BnbDailyRewards": 4.079891286949467,
+    "DailyROIReward": "USD 1795.1521662577652"
+  },
+  {
+    "Day": 122,
+    "Generated": "USD 39583.105265983686",
+    "BnbDailyRewards": 4.283885851296938,
+    "DailyROIReward": "USD 1884.909774570653"
+  },
+  {
+    "Day": 123,
+    "Generated": "USD 41562.260529282874",
+    "BnbDailyRewards": 4.498080143861791,
+    "DailyROIReward": "USD 1979.155263299188"
+  },
+  {
+    "Day": 124,
+    "Generated": "USD 43640.37355574702",
+    "BnbDailyRewards": 4.722984151054879,
+    "DailyROIReward": "USD 2078.113026464147"
+  },
+  {
+    "Day": 125,
+    "Generated": "USD 45822.392233534374",
+    "BnbDailyRewards": 4.959133358607621,
+    "DailyROIReward": "USD 2182.018677787353"
+  },
+  {
+    "Day": 126,
+    "Generated": "USD 48113.5118452111",
+    "BnbDailyRewards": 5.207090026538009,
+    "DailyROIReward": "USD 2291.119611676724"
+  },
+  {
+    "Day": 127,
+    "Generated": "USD 50519.18743747166",
+    "BnbDailyRewards": 5.467444527864907,
+    "DailyROIReward": "USD 2405.675592260559"
+  },
+  {
+    "Day": 128,
+    "Generated": "USD 53045.14680934524",
+    "BnbDailyRewards": 5.740816754258148,
+    "DailyROIReward": "USD 2525.959371873585"
+  },
+  {
+    "Day": 129,
+    "Generated": "USD 55697.40414981251",
+    "BnbDailyRewards": 6.027857591971059,
+    "DailyROIReward": "USD 2652.2573404672657"
+  },
+  {
+    "Day": 130,
+    "Generated": "USD 58482.27435730313",
+    "BnbDailyRewards": 6.329250471569602,
+    "DailyROIReward": "USD 2784.870207490625"
+  },
+  {
+    "Day": 131,
+    "Generated": "USD 61406.388075168295",
+    "BnbDailyRewards": 6.645712995148097,
+    "DailyROIReward": "USD 2924.1137178651625"
+  },
+  {
+    "Day": 132,
+    "Generated": "USD 64476.70747892671",
+    "BnbDailyRewards": 6.977998644905496,
+    "DailyROIReward": "USD 3070.319403758418"
+  },
+  {
+    "Day": 133,
+    "Generated": "USD 67700.54285287306",
+    "BnbDailyRewards": 7.326898577150777,
+    "DailyROIReward": "USD 3223.835373946342"
+  },
+  {
+    "Day": 134,
+    "Generated": "USD 71085.56999551671",
+    "BnbDailyRewards": 7.6932435060083,
+    "DailyROIReward": "USD 3385.027142643652"
+  },
+  {
+    "Day": 135,
+    "Generated": "USD 74639.84849529255",
+    "BnbDailyRewards": 8.077905681308733,
+    "DailyROIReward": "USD 3554.2784997758426"
+  },
+  {
+    "Day": 136,
+    "Generated": "USD 78371.84092005718",
+    "BnbDailyRewards": 8.481800965374152,
+    "DailyROIReward": "USD 3731.992424764627"
+  },
+  {
+    "Day": 137,
+    "Generated": "USD 82290.43296606003",
+    "BnbDailyRewards": 8.905891013642858,
+    "DailyROIReward": "USD 3918.5920460028574"
+  },
+  {
+    "Day": 138,
+    "Generated": "USD 86404.95461436304",
+    "BnbDailyRewards": 9.35118556432502,
+    "DailyROIReward": "USD 4114.521648303009"
+  },
+  {
+    "Day": 139,
+    "Generated": "USD 90725.2023450812",
+    "BnbDailyRewards": 9.81874484254126,
+    "DailyROIReward": "USD 4320.247730718154"
+  },
+  {
+    "Day": 140,
+    "Generated": "USD 95261.46246233526",
+    "BnbDailyRewards": 10.309682084668317,
+    "DailyROIReward": "USD 4536.26011725406"
+  },
+  {
+    "Day": 141,
+    "Generated": "USD 100024.53558545203",
+    "BnbDailyRewards": 10.82516618890176,
+    "DailyROIReward": "USD 4763.073123116774"
+  },
+  {
+    "Day": 142,
+    "Generated": "USD 105025.76236472464",
+    "BnbDailyRewards": 11.36642449834683,
+    "DailyROIReward": "USD 5001.226779272605"
+  },
+  {
+    "Day": 143,
+    "Generated": "USD 110277.05048296087",
+    "BnbDailyRewards": 11.934745723264164,
+    "DailyROIReward": "USD 5251.288118236233"
+  },
+  {
+    "Day": 144,
+    "Generated": "USD 115790.90300710892",
+    "BnbDailyRewards": 12.531483009427394,
+    "DailyROIReward": "USD 5513.852524148053"
+  },
+  {
+    "Day": 145,
+    "Generated": "USD 121580.44815746437",
+    "BnbDailyRewards": 13.158057159898751,
+    "DailyROIReward": "USD 5789.5451503554505"
+  },
+  {
+    "Day": 146,
+    "Generated": "USD 127659.4705653376",
+    "BnbDailyRewards": 13.8159600178937,
+    "DailyROIReward": "USD 6079.022407873228"
+  },
+  {
+    "Day": 147,
+    "Generated": "USD 134042.44409360448",
+    "BnbDailyRewards": 14.506758018788373,
+    "DailyROIReward": "USD 6382.973528266884"
+  },
+  {
+    "Day": 148,
+    "Generated": "USD 140744.5662982847",
+    "BnbDailyRewards": 15.232095919727792,
+    "DailyROIReward": "USD 6702.122204680229"
+  },
+  {
+    "Day": 149,
+    "Generated": "USD 147781.79461319896",
+    "BnbDailyRewards": 15.993700715714196,
+    "DailyROIReward": "USD 7037.228314914246"
+  },
+  {
+    "Day": 150,
+    "Generated": "USD 155170.88434385892",
+    "BnbDailyRewards": 16.793385751499923,
+    "DailyROIReward": "USD 7389.089730659965"
+  },
+  {
+    "Day": 151,
+    "Generated": "USD 162929.42856105187",
+    "BnbDailyRewards": 17.63305503907488,
+    "DailyROIReward": "USD 7758.544217192946"
+  },
+  {
+    "Day": 152,
+    "Generated": "USD 171075.89998910448",
+    "BnbDailyRewards": 18.51470779102866,
+    "DailyROIReward": "USD 8146.47142805261"
+  },
+  {
+    "Day": 153,
+    "Generated": "USD 179629.6949885597",
+    "BnbDailyRewards": 19.44044318058004,
+    "DailyROIReward": "USD 8553.794999455218"
+  },
+  {
+    "Day": 154,
+    "Generated": "USD 188611.1797379877",
+    "BnbDailyRewards": 20.41246533960908,
+    "DailyROIReward": "USD 8981.484749427997"
+  },
+  {
+    "Day": 155,
+    "Generated": "USD 198041.73872488708",
+    "BnbDailyRewards": 21.43308860658951,
+    "DailyROIReward": "USD 9430.558986899385"
+  },
+  {
+    "Day": 156,
+    "Generated": "USD 207943.82566113144",
+    "BnbDailyRewards": 22.504743036919006,
+    "DailyROIReward": "USD 9902.086936244363"
+  },
+  {
+    "Day": 157,
+    "Generated": "USD 218341.016944188",
+    "BnbDailyRewards": 23.629980188764932,
+    "DailyROIReward": "USD 10397.19128305657"
+  },
+  {
+    "Day": 158,
+    "Generated": "USD 229258.06779139742",
+    "BnbDailyRewards": 24.811479198203198,
+    "DailyROIReward": "USD 10917.050847209408"
+  },
+  {
+    "Day": 159,
+    "Generated": "USD 240720.9711809673",
+    "BnbDailyRewards": 26.052053158113335,
+    "DailyROIReward": "USD 11462.903389569867"
+  },
+  {
+    "Day": 160,
+    "Generated": "USD 252757.01974001568",
+    "BnbDailyRewards": 27.35465581601906,
+    "DailyROIReward": "USD 12036.048559048388"
+  },
+  {
+    "Day": 161,
+    "Generated": "USD 265394.8707270165",
+    "BnbDailyRewards": 28.722388606819997,
+    "DailyROIReward": "USD 12637.850987000798"
+  },
+  {
+    "Day": 162,
+    "Generated": "USD 278664.6142633673",
+    "BnbDailyRewards": 30.158508037161003,
+    "DailyROIReward": "USD 13269.743536350841"
+  },
+  {
+    "Day": 163,
+    "Generated": "USD 292597.8449765357",
+    "BnbDailyRewards": 31.666433439019073,
+    "DailyROIReward": "USD 13933.230713168392"
+  },
+  {
+    "Day": 164,
+    "Generated": "USD 307227.7372253625",
+    "BnbDailyRewards": 33.24975511097,
+    "DailyROIReward": "USD 14629.8922488268"
+  },
+  {
+    "Day": 165,
+    "Generated": "USD 322589.12408663065",
+    "BnbDailyRewards": 34.9122428665185,
+    "DailyROIReward": "USD 15361.38686126814"
+  },
+  {
+    "Day": 166,
+    "Generated": "USD 338718.5802909622",
+    "BnbDailyRewards": 36.657855009844404,
+    "DailyROIReward": "USD 16129.456204331538"
+  },
+  {
+    "Day": 167,
+    "Generated": "USD 355654.5093055103",
+    "BnbDailyRewards": 38.490747760336674,
+    "DailyROIReward": "USD 16935.929014548135"
+  },
+  {
+    "Day": 168,
+    "Generated": "USD 373437.23477078584",
+    "BnbDailyRewards": 40.41528514835346,
+    "DailyROIReward": "USD 17782.725465275522"
+  },
+  {
+    "Day": 169,
+    "Generated": "USD 392109.09650932514",
+    "BnbDailyRewards": 42.436049405771136,
+    "DailyROIReward": "USD 18671.8617385393"
+  },
+  {
+    "Day": 170,
+    "Generated": "USD 411714.5513347914",
+    "BnbDailyRewards": 44.55785187605969,
+    "DailyROIReward": "USD 19605.454825466266"
+  },
+  {
+    "Day": 171,
+    "Generated": "USD 432300.278901531",
+    "BnbDailyRewards": 46.785744469862735,
+    "DailyROIReward": "USD 20585.727566739602"
+  },
+  {
+    "Day": 172,
+    "Generated": "USD 453915.29284660757",
+    "BnbDailyRewards": 49.12503169335581,
+    "DailyROIReward": "USD 21615.013945076556"
+  },
+  {
+    "Day": 173,
+    "Generated": "USD 476611.057488938",
+    "BnbDailyRewards": 51.58128327802366,
+    "DailyROIReward": "USD 22695.76464233041"
+  },
+  {
+    "Day": 174,
+    "Generated": "USD 500441.6103633849",
+    "BnbDailyRewards": 54.160347441924785,
+    "DailyROIReward": "USD 23830.552874446905"
+  },
+  {
+    "Day": 175,
+    "Generated": "USD 525463.6908815542",
+    "BnbDailyRewards": 56.86836481402107,
+    "DailyROIReward": "USD 25022.08051816927"
+  },
+  {
+    "Day": 176,
+    "Generated": "USD 551736.8754256319",
+    "BnbDailyRewards": 59.711783054722105,
+    "DailyROIReward": "USD 26273.184544077725"
+  },
+  {
+    "Day": 177,
+    "Generated": "USD 579323.7191969135",
+    "BnbDailyRewards": 62.6973722074583,
+    "DailyROIReward": "USD 27586.843771281652"
+  },
+  {
+    "Day": 178,
+    "Generated": "USD 608289.9051567592",
+    "BnbDailyRewards": 65.83224081783105,
+    "DailyROIReward": "USD 28966.185959845665"
+  },
+  {
+    "Day": 179,
+    "Generated": "USD 638704.4004145971",
+    "BnbDailyRewards": 69.12385285872257,
+    "DailyROIReward": "USD 30414.49525783793"
+  },
+  {
+    "Day": 180,
+    "Generated": "USD 670639.6204353271",
+    "BnbDailyRewards": 72.58004550165893,
+    "DailyROIReward": "USD 31935.220020729932"
+  },
+  {
+    "Day": 181,
+    "Generated": "USD 704171.6014570935",
+    "BnbDailyRewards": 76.2090477767419,
+    "DailyROIReward": "USD 33531.981021766434"
+  },
+  {
+    "Day": 182,
+    "Generated": "USD 739380.1815299483",
+    "BnbDailyRewards": 80.019500165579,
+    "DailyROIReward": "USD 35208.58007285476"
+  },
+  {
+    "Day": 183,
+    "Generated": "USD 776349.1906064457",
+    "BnbDailyRewards": 84.02047517385773,
+    "DailyROIReward": "USD 36969.0090764974"
+  },
+  {
+    "Day": 184,
+    "Generated": "USD 815166.650136768",
+    "BnbDailyRewards": 88.22149893255079,
+    "DailyROIReward": "USD 38817.45953032235"
+  },
+  {
+    "Day": 185,
+    "Generated": "USD 855924.9826436065",
+    "BnbDailyRewards": 92.63257387917838,
+    "DailyROIReward": "USD 40758.33250683849"
+  },
+  {
+    "Day": 186,
+    "Generated": "USD 898721.2317757868",
+    "BnbDailyRewards": 97.26420257313717,
+    "DailyROIReward": "USD 42796.24913218035"
+  },
+  {
+    "Day": 187,
+    "Generated": "USD 943657.2933645762",
+    "BnbDailyRewards": 102.12741270179394,
+    "DailyROIReward": "USD 44936.06158878934"
+  },
+  {
+    "Day": 188,
+    "Generated": "USD 990840.1580328051",
+    "BnbDailyRewards": 107.23378333688386,
+    "DailyROIReward": "USD 47182.864668228896"
+  },
+  {
+    "Day": 189,
+    "Generated": "USD 1040382.1659344453",
+    "BnbDailyRewards": 112.59547250372786,
+    "DailyROIReward": "USD 49542.00790164026"
+  },
+  {
+    "Day": 190,
+    "Generated": "USD 1092401.2742311677",
+    "BnbDailyRewards": 118.22524612891456,
+    "DailyROIReward": "USD 52019.10829672241"
+  },
+  {
+    "Day": 191,
+    "Generated": "USD 1147021.3379427262",
+    "BnbDailyRewards": 124.13650843536016,
+    "DailyROIReward": "USD 54620.06371155847"
+  },
+  {
+    "Day": 192,
+    "Generated": "USD 1204372.4048398626",
+    "BnbDailyRewards": 130.34333385712816,
+    "DailyROIReward": "USD 57351.06689713639"
+  },
+  {
+    "Day": 193,
+    "Generated": "USD 1264591.0250818557",
+    "BnbDailyRewards": 136.86050054998432,
+    "DailyROIReward": "USD 60218.62024199311"
+  },
+  {
+    "Day": 194,
+    "Generated": "USD 1327820.5763359487",
+    "BnbDailyRewards": 143.703525577484,
+    "DailyROIReward": "USD 63229.55125409295"
+  },
+  {
+    "Day": 195,
+    "Generated": "USD 1394211.6051527462",
+    "BnbDailyRewards": 150.88870185635804,
+    "DailyROIReward": "USD 66391.02881679754"
+  },
+  {
+    "Day": 196,
+    "Generated": "USD 1463922.1854103836",
+    "BnbDailyRewards": 158.43313694917597,
+    "DailyROIReward": "USD 69710.58025763743"
+  },
+  {
+    "Day": 197,
+    "Generated": "USD 1537118.294680903",
+    "BnbDailyRewards": 166.35479379663488,
+    "DailyROIReward": "USD 73196.10927051934"
+  },
+  {
+    "Day": 198,
+    "Generated": "USD 1613974.2094149482",
+    "BnbDailyRewards": 174.67253348646653,
+    "DailyROIReward": "USD 76855.91473404528"
+  },
+  {
+    "Day": 199,
+    "Generated": "USD 1694672.9198856957",
+    "BnbDailyRewards": 183.40616016078963,
+    "DailyROIReward": "USD 80698.71047074744"
+  },
+  {
+    "Day": 200,
+    "Generated": "USD 1779406.5658799806",
+    "BnbDailyRewards": 192.57646816882928,
+    "DailyROIReward": "USD 84733.64599428489"
+  },
+  {
+    "Day": 201,
+    "Generated": "USD 1868376.8941739798",
+    "BnbDailyRewards": 202.20529157727088,
+    "DailyROIReward": "USD 88970.32829399919"
+  },
+  {
+    "Day": 202,
+    "Generated": "USD 1961795.7388826788",
+    "BnbDailyRewards": 212.31555615613416,
+    "DailyROIReward": "USD 93418.84470869903"
+  },
+  {
+    "Day": 203,
+    "Generated": "USD 2059885.5258268127",
+    "BnbDailyRewards": 222.93133396394074,
+    "DailyROIReward": "USD 98089.78694413393"
+  },
+  {
+    "Day": 204,
+    "Generated": "USD 2162879.8021181533",
+    "BnbDailyRewards": 234.0779006621377,
+    "DailyROIReward": "USD 102994.27629134059"
+  },
+  {
+    "Day": 205,
+    "Generated": "USD 2271023.792224061",
+    "BnbDailyRewards": 245.78179569524522,
+    "DailyROIReward": "USD 108143.9901059079"
+  },
+  {
+    "Day": 206,
+    "Generated": "USD 2384574.9818352642",
+    "BnbDailyRewards": 258.0708854800069,
+    "DailyROIReward": "USD 113551.18961120304"
+  },
+  {
+    "Day": 207,
+    "Generated": "USD 2503803.7309270278",
+    "BnbDailyRewards": 270.974429754008,
+    "DailyROIReward": "USD 119228.74909176352"
+  },
+  {
+    "Day": 208,
+    "Generated": "USD 2628993.917473379",
+    "BnbDailyRewards": 284.52315124170747,
+    "DailyROIReward": "USD 125190.1865463513"
+  },
+  {
+    "Day": 209,
+    "Generated": "USD 2760443.613347048",
+    "BnbDailyRewards": 298.7493088037929,
+    "DailyROIReward": "USD 131449.69587366888"
+  },
+  {
+    "Day": 210,
+    "Generated": "USD 2898465.7940144003",
+    "BnbDailyRewards": 313.6867742439827,
+    "DailyROIReward": "USD 138022.1806673524"
+  },
+  {
+    "Day": 211,
+    "Generated": "USD 3043389.0837151203",
+    "BnbDailyRewards": 329.3711129561818,
+    "DailyROIReward": "USD 144923.28970072"
+  },
+  {
+    "Day": 212,
+    "Generated": "USD 3195558.5379008763",
+    "BnbDailyRewards": 345.83966860399073,
+    "DailyROIReward": "USD 152169.45418575592"
+  },
+  {
+    "Day": 213,
+    "Generated": "USD 3355336.46479592",
+    "BnbDailyRewards": 363.1316520341905,
+    "DailyROIReward": "USD 159777.9268950438"
+  },
+  {
+    "Day": 214,
+    "Generated": "USD 3523103.2880357164",
+    "BnbDailyRewards": 381.2882346359007,
+    "DailyROIReward": "USD 167766.82323979633"
+  },
+  {
+    "Day": 215,
+    "Generated": "USD 3699258.4524375023",
+    "BnbDailyRewards": 400.3526463676953,
+    "DailyROIReward": "USD 176155.16440178594"
+  },
+  {
+    "Day": 216,
+    "Generated": "USD 3884221.3750593774",
+    "BnbDailyRewards": 420.3702786860797,
+    "DailyROIReward": "USD 184962.92262187507"
+  },
+  {
+    "Day": 217,
+    "Generated": "USD 4078432.4438123466",
+    "BnbDailyRewards": 441.38879262038444,
+    "DailyROIReward": "USD 194211.06875296915"
+  },
+  {
+    "Day": 218,
+    "Generated": "USD 4282354.066002964",
+    "BnbDailyRewards": 463.4582322514034,
+    "DailyROIReward": "USD 203921.6221906175"
+  },
+  {
+    "Day": 219,
+    "Generated": "USD 4496471.769303112",
+    "BnbDailyRewards": 486.6311438639733,
+    "DailyROIReward": "USD 214117.70330014825"
+  },
+  {
+    "Day": 220,
+    "Generated": "USD 4721295.357768268",
+    "BnbDailyRewards": 510.9627010571728,
+    "DailyROIReward": "USD 224823.58846515603"
+  },
+  {
+    "Day": 221,
+    "Generated": "USD 4957360.125656682",
+    "BnbDailyRewards": 536.5108361100313,
+    "DailyROIReward": "USD 236064.76788841374"
+  },
+  {
+    "Day": 222,
+    "Generated": "USD 5205228.131939516",
+    "BnbDailyRewards": 563.3363779155326,
+    "DailyROIReward": "USD 247868.00628283434"
+  },
+  {
+    "Day": 223,
+    "Generated": "USD 5465489.538536493",
+    "BnbDailyRewards": 591.5031968113099,
+    "DailyROIReward": "USD 260261.40659697633"
+  },
+  {
+    "Day": 224,
+    "Generated": "USD 5738764.015463318",
+    "BnbDailyRewards": 621.078356651875,
+    "DailyROIReward": "USD 273274.476926825"
+  },
+  {
+    "Day": 225,
+    "Generated": "USD 6025702.216236484",
+    "BnbDailyRewards": 652.1322744844693,
+    "DailyROIReward": "USD 286938.2007731665"
+  },
+  {
+    "Day": 226,
+    "Generated": "USD 6326987.327048309",
+    "BnbDailyRewards": 684.738888208693,
+    "DailyROIReward": "USD 301285.1108118249"
+  },
+  {
+    "Day": 227,
+    "Generated": "USD 6643336.693400725",
+    "BnbDailyRewards": 718.9758326191264,
+    "DailyROIReward": "USD 316349.36635241564"
+  },
+  {
+    "Day": 228,
+    "Generated": "USD 6975503.528070761",
+    "BnbDailyRewards": 754.924624250082,
+    "DailyROIReward": "USD 332166.8346700361"
+  },
+  {
+    "Day": 229,
+    "Generated": "USD 7324278.704474299",
+    "BnbDailyRewards": 792.6708554625872,
+    "DailyROIReward": "USD 348775.1764035383"
+  },
+  {
+    "Day": 230,
+    "Generated": "USD 7690492.639698015",
+    "BnbDailyRewards": 832.3043982357168,
+    "DailyROIReward": "USD 366213.9352237154"
+  },
+  {
+    "Day": 231,
+    "Generated": "USD 8075017.271682915",
+    "BnbDailyRewards": 873.9196181475015,
+    "DailyROIReward": "USD 384524.6319849007"
+  },
+  {
+    "Day": 232,
+    "Generated": "USD 8478768.135267062",
+    "BnbDailyRewards": 917.6155990548792,
+    "DailyROIReward": "USD 403750.86358414683"
+  },
+  {
+    "Day": 233,
+    "Generated": "USD 8902706.542030416",
+    "BnbDailyRewards": 963.4963790076234,
+    "DailyROIReward": "USD 423938.4067633543"
+  },
+  {
+    "Day": 234,
+    "Generated": "USD 9347841.869131938",
+    "BnbDailyRewards": 1011.6711979580027,
+    "DailyROIReward": "USD 445135.3271015212"
+  },
+  {
+    "Day": 235,
+    "Generated": "USD 9815233.962588536",
+    "BnbDailyRewards": 1062.2547578559045,
+    "DailyROIReward": "USD 467392.093456598"
+  },
+  {
+    "Day": 236,
+    "Generated": "USD 10305995.660717962",
+    "BnbDailyRewards": 1115.367495748697,
+    "DailyROIReward": "USD 490761.6981294267"
+  },
+  {
+    "Day": 237,
+    "Generated": "USD 10821295.44375386",
+    "BnbDailyRewards": 1171.135870536133,
+    "DailyROIReward": "USD 515299.7830358986"
+  },
+  {
+    "Day": 238,
+    "Generated": "USD 11362360.215941554",
+    "BnbDailyRewards": 1229.6926640629388,
+    "DailyROIReward": "USD 541064.772187693"
+  },
+  {
+    "Day": 239,
+    "Generated": "USD 11930478.226738632",
+    "BnbDailyRewards": 1291.1772972660858,
+    "DailyROIReward": "USD 568118.0107970778"
+  },
+  {
+    "Day": 240,
+    "Generated": "USD 12527002.138075564",
+    "BnbDailyRewards": 1355.7361621293917,
+    "DailyROIReward": "USD 596523.9113369323"
+  },
+  {
+    "Day": 241,
+    "Generated": "USD 13153352.244979342",
+    "BnbDailyRewards": 1423.52297023586,
+    "DailyROIReward": "USD 626350.1069037784"
+  },
+  {
+    "Day": 242,
+    "Generated": "USD 13811019.85722831",
+    "BnbDailyRewards": 1494.6991187476553,
+    "DailyROIReward": "USD 657667.6122489683"
+  },
+  {
+    "Day": 243,
+    "Generated": "USD 14501570.850089727",
+    "BnbDailyRewards": 1569.4340746850369,
+    "DailyROIReward": "USD 690550.9928614162"
+  },
+  {
+    "Day": 244,
+    "Generated": "USD 15226649.392594215",
+    "BnbDailyRewards": 1647.9057784192898,
+    "DailyROIReward": "USD 725078.5425044876"
+  },
+  {
+    "Day": 245,
+    "Generated": "USD 15987981.862223925",
+    "BnbDailyRewards": 1730.3010673402512,
+    "DailyROIReward": "USD 761332.4696297105"
+  },
+  {
+    "Day": 246,
+    "Generated": "USD 16787380.95533512",
+    "BnbDailyRewards": 1816.8161207072649,
+    "DailyROIReward": "USD 799399.0931111965"
+  },
+  {
+    "Day": 247,
+    "Generated": "USD 17626750.003101878",
+    "BnbDailyRewards": 1907.6569267426278,
+    "DailyROIReward": "USD 839369.0477667563"
+  },
+  {
+    "Day": 248,
+    "Generated": "USD 18508087.503256973",
+    "BnbDailyRewards": 2003.0397730797613,
+    "DailyROIReward": "USD 881337.500155095"
+  },
+  {
+    "Day": 249,
+    "Generated": "USD 19433491.878419824",
+    "BnbDailyRewards": 2103.1917617337526,
+    "DailyROIReward": "USD 925404.3751628511"
+  },
+  {
+    "Day": 250,
+    "Generated": "USD 20405166.472340815",
+    "BnbDailyRewards": 2208.351349820434,
+    "DailyROIReward": "USD 971674.5939209908"
+  },
+  {
+    "Day": 251,
+    "Generated": "USD 21425424.795957856",
+    "BnbDailyRewards": 2318.7689173114572,
+    "DailyROIReward": "USD 1020258.3236170411"
+  },
+  {
+    "Day": 252,
+    "Generated": "USD 22496696.03575575",
+    "BnbDailyRewards": 2434.7073631770318,
+    "DailyROIReward": "USD 1071271.239797894"
+  },
+  {
+    "Day": 253,
+    "Generated": "USD 23621530.83754354",
+    "BnbDailyRewards": 2556.442731335886,
+    "DailyROIReward": "USD 1124834.80178779"
+  },
+  {
+    "Day": 254,
+    "Generated": "USD 24802607.379420716",
+    "BnbDailyRewards": 2684.2648679026743,
+    "DailyROIReward": "USD 1181076.5418771766"
+  },
+  {
+    "Day": 255,
+    "Generated": "USD 26042737.748391755",
+    "BnbDailyRewards": 2818.478111297815,
+    "DailyROIReward": "USD 1240130.3689710386"
+  },
+  {
+    "Day": 256,
+    "Generated": "USD 27344874.635811344",
+    "BnbDailyRewards": 2959.402016862702,
+    "DailyROIReward": "USD 1302136.8874195889"
+  },
+  {
+    "Day": 257,
+    "Generated": "USD 28712118.367601912",
+    "BnbDailyRewards": 3107.372117705838,
+    "DailyROIReward": "USD 1367243.7317905687"
+  },
+  {
+    "Day": 258,
+    "Generated": "USD 30147724.28598201",
+    "BnbDailyRewards": 3262.7407235911287,
+    "DailyROIReward": "USD 1435605.9183800966"
+  },
+  {
+    "Day": 259,
+    "Generated": "USD 31655110.50028111",
+    "BnbDailyRewards": 3425.877759770685,
+    "DailyROIReward": "USD 1507386.2142991014"
+  },
+  {
+    "Day": 260,
+    "Generated": "USD 33237866.02529517",
+    "BnbDailyRewards": 3597.171647759222,
+    "DailyROIReward": "USD 1582755.5250140578"
+  },
+  {
+    "Day": 261,
+    "Generated": "USD 34899759.32655993",
+    "BnbDailyRewards": 3777.0302301471884,
+    "DailyROIReward": "USD 1661893.3012647629"
+  },
+  {
+    "Day": 262,
+    "Generated": "USD 36644747.292887926",
+    "BnbDailyRewards": 3965.8817416545344,
+    "DailyROIReward": "USD 1744987.966327995"
+  },
+  {
+    "Day": 263,
+    "Generated": "USD 38476984.65753233",
+    "BnbDailyRewards": 4164.175828737274,
+    "DailyROIReward": "USD 1832237.3646444008"
+  },
+  {
+    "Day": 264,
+    "Generated": "USD 40400833.89040895",
+    "BnbDailyRewards": 4372.384620174139,
+    "DailyROIReward": "USD 1923849.2328766212"
+  },
+  {
+    "Day": 265,
+    "Generated": "USD 42420875.5849294",
+    "BnbDailyRewards": 4591.003851182843,
+    "DailyROIReward": "USD 2020041.6945204511"
+  },
+  {
+    "Day": 266,
+    "Generated": "USD 44541919.36417587",
+    "BnbDailyRewards": 4820.554043741981,
+    "DailyROIReward": "USD 2121043.779246472"
+  },
+  {
+    "Day": 267,
+    "Generated": "USD 46769015.33238467",
+    "BnbDailyRewards": 5061.581745929085,
+    "DailyROIReward": "USD 2227095.9682087973"
+  },
+  {
+    "Day": 268,
+    "Generated": "USD 49107466.0990039",
+    "BnbDailyRewards": 5314.660833225535,
+    "DailyROIReward": "USD 2338450.7666192353"
+  },
+  {
+    "Day": 269,
+    "Generated": "USD 51562839.4039541",
+    "BnbDailyRewards": 5580.393874886819,
+    "DailyROIReward": "USD 2455373.3049502"
+  },
+  {
+    "Day": 270,
+    "Generated": "USD 54140981.37415181",
+    "BnbDailyRewards": 5859.413568631153,
+    "DailyROIReward": "USD 2578141.9701977074"
+  },
+  {
+    "Day": 271,
+    "Generated": "USD 56848030.442859404",
+    "BnbDailyRewards": 6152.3842470627105,
+    "DailyROIReward": "USD 2707049.068707593"
+  },
+  {
+    "Day": 272,
+    "Generated": "USD 59690431.96500237",
+    "BnbDailyRewards": 6460.003459415839,
+    "DailyROIReward": "USD 2842401.522142969"
+  },
+  {
+    "Day": 273,
+    "Generated": "USD 62674953.563252494",
+    "BnbDailyRewards": 6783.003632386638,
+    "DailyROIReward": "USD 2984521.598250121"
+  },
+  {
+    "Day": 274,
+    "Generated": "USD 65808701.24141512",
+    "BnbDailyRewards": 7122.15381400597,
+    "DailyROIReward": "USD 3133747.678162627"
+  },
+  {
+    "Day": 275,
+    "Generated": "USD 69099136.30348589",
+    "BnbDailyRewards": 7478.261504706284,
+    "DailyROIReward": "USD 3290435.0620707646"
+  },
+  {
+    "Day": 276,
+    "Generated": "USD 72554093.11866018",
+    "BnbDailyRewards": 7852.174579941583,
+    "DailyROIReward": "USD 3454956.8151742965"
+  },
+  {
+    "Day": 277,
+    "Generated": "USD 76181797.77459319",
+    "BnbDailyRewards": 8244.783308938653,
+    "DailyROIReward": "USD 3627704.6559330076"
+  },
+  {
+    "Day": 278,
+    "Generated": "USD 79990887.66332285",
+    "BnbDailyRewards": 8657.022474385594,
+    "DailyROIReward": "USD 3809089.8887296617"
+  },
+  {
+    "Day": 279,
+    "Generated": "USD 83990432.046489",
+    "BnbDailyRewards": 9089.873598104885,
+    "DailyROIReward": "USD 3999544.3831661493"
+  },
+  {
+    "Day": 280,
+    "Generated": "USD 88189953.64881346",
+    "BnbDailyRewards": 9544.367278010128,
+    "DailyROIReward": "USD 4199521.602324456"
+  },
+  {
+    "Day": 281,
+    "Generated": "USD 92599451.33125414",
+    "BnbDailyRewards": 10021.585641910644,
+    "DailyROIReward": "USD 4409497.682440683"
+  },
+  {
+    "Day": 282,
+    "Generated": "USD 97229423.89781685",
+    "BnbDailyRewards": 10522.664924006163,
+    "DailyROIReward": "USD 4629972.566562712"
+  },
+  {
+    "Day": 283,
+    "Generated": "USD 102090895.0927077",
+    "BnbDailyRewards": 11048.798170206459,
+    "DailyROIReward": "USD 4861471.194890842"
+  },
+  {
+    "Day": 284,
+    "Generated": "USD 107195439.84734309",
+    "BnbDailyRewards": 11601.238078716804,
+    "DailyROIReward": "USD 5104544.754635394"
+  },
+  {
+    "Day": 285,
+    "Generated": "USD 112555211.83971025",
+    "BnbDailyRewards": 12181.299982652645,
+    "DailyROIReward": "USD 5359771.992367163"
+  },
+  {
+    "Day": 286,
+    "Generated": "USD 118182972.43169577",
+    "BnbDailyRewards": 12790.364981785282,
+    "DailyROIReward": "USD 5627760.591985524"
+  },
+  {
+    "Day": 287,
+    "Generated": "USD 124092121.05328056",
+    "BnbDailyRewards": 13429.883230874519,
+    "DailyROIReward": "USD 5909148.621584788"
+  },
+  {
+    "Day": 288,
+    "Generated": "USD 130296727.10594459",
+    "BnbDailyRewards": 14101.377392418242,
+    "DailyROIReward": "USD 6204606.052664027"
+  },
+  {
+    "Day": 289,
+    "Generated": "USD 136811563.4612418",
+    "BnbDailyRewards": 14806.446262039142,
+    "DailyROIReward": "USD 6514836.355297223"
+  },
+  {
+    "Day": 290,
+    "Generated": "USD 143652141.6343039",
+    "BnbDailyRewards": 15546.768575141105,
+    "DailyROIReward": "USD 6840578.173062086"
+  },
+  {
+    "Day": 291,
+    "Generated": "USD 150834748.7160191",
+    "BnbDailyRewards": 16324.107003898174,
+    "DailyROIReward": "USD 7182607.081715196"
+  },
+  {
+    "Day": 292,
+    "Generated": "USD 158376486.15182006",
+    "BnbDailyRewards": 17140.312354093112,
+    "DailyROIReward": "USD 7541737.43580097"
+  },
+  {
+    "Day": 293,
+    "Generated": "USD 166295310.45941108",
+    "BnbDailyRewards": 17997.327971797775,
+    "DailyROIReward": "USD 7918824.307591021"
+  },
+  {
+    "Day": 294,
+    "Generated": "USD 174610075.98238164",
+    "BnbDailyRewards": 18897.19437038763,
+    "DailyROIReward": "USD 8314765.522970557"
+  },
+  {
+    "Day": 295,
+    "Generated": "USD 183340579.78150073",
+    "BnbDailyRewards": 19842.05408890701,
+    "DailyROIReward": "USD 8730503.799119085"
+  },
+  {
+    "Day": 296,
+    "Generated": "USD 192507608.77057576",
+    "BnbDailyRewards": 20834.15679335235,
+    "DailyROIReward": "USD 9167028.989075035"
+  },
+  {
+    "Day": 297,
+    "Generated": "USD 202132989.20910457",
+    "BnbDailyRewards": 21875.864633020014,
+    "DailyROIReward": "USD 9625380.438528806"
+  },
+  {
+    "Day": 298,
+    "Generated": "USD 212239638.6695598",
+    "BnbDailyRewards": 22969.657864670997,
+    "DailyROIReward": "USD 10106649.460455239"
+  },
+  {
+    "Day": 299,
+    "Generated": "USD 222851620.6030378",
+    "BnbDailyRewards": 24118.14075790454,
+    "DailyROIReward": "USD 10611981.933477998"
+  },
+  {
+    "Day": 300,
+    "Generated": "USD 233994201.6331897",
+    "BnbDailyRewards": 25324.047795799783,
+    "DailyROIReward": "USD 11142581.030151904"
+  }
+]
